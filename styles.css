@@ -1,4 +1,6 @@
 body{
+    height: 100%;
+    width: 100%;
     background-image: url(./images/hush-naidoo-jade-photography-YRo-gm6jtSw-unsplash\ \(1\).jpg);
     background-size: cover;
     -webkit-user-select :none;
