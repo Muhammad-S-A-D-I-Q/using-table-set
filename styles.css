@@ -1,0 +1,48 @@
+body{
+    background-image: url(./images/hush-naidoo-jade-photography-YRo-gm6jtSw-unsplash\ \(1\).jpg);
+    background-size: cover;
+    -webkit-user-select :none;
+    -ms-user-select : none;
+    -moz-user-select: none;
+    user-select: none;
+}
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+table {
+    height: fit-content;
+    width: 90%;
+    overflow: hidden;
+}
+th{
+    overflow: hidden;
+}
+tr :hover {
+    background-color: lightblue;
+
+}
+th :hover{
+background-color:lightblue ;
+}
+tr:nth-child(even) {
+     background-color: cornflowerblue; }
+th,td {
+border: 1px solid black;
+text-align: center;
+}
+h2 {
+text-align: center;
+float: center;
+border-inline: double;
+}
+h1 {
+float:center;
+text-align: center;
+border-left-style: dashed;
+border-right-style:dashed ;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
